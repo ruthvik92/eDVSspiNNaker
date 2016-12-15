@@ -13,4 +13,5 @@ tb_top_module.v    : this file has test bench module implemented.
 
 top_module.v       : this file has top module implemented. 
 
+doc.pdf : this file has some description of this project.
 
